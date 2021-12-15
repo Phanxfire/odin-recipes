@@ -1,8 +1,38 @@
 /* index.html */
 
+.html {
+        background-color: black;
+}
+
 .Recipes {
         background-color: red;
-        color: blue;
+        color: white;
         font-size: 50px;
         text-align: center;
+}
+
+.h2 {
+        background-color: red; 
+        color: white;
+        font-size: 30px;
+        text-align: center;
+}
+
+.List {
+      color: white;
+      font-size: 20px;
+      text-align: center; 
+}
+
+.Links {
+      color: white;
+      color: white;
+      color: white;
+}
+
+.img {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 50%;
 }
