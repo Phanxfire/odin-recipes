@@ -4,6 +4,7 @@
         background-color: black;
         color: red;
         font-size: 50px;
+    font-family: sans-serif;
         text-align: center;
 }
 
@@ -18,14 +19,29 @@
     background-color: black;
     color: red;
     font-size: 30px;
+    font-family: sans-serif;
     text-align: center;
+}
+
+.h3 {
+    font-family: sans-serif;
+}
+
+.h4 {
+    font-family: sans-serif;
+}
+
+.list {
+    font-family: sans-serif;
 }
 
 .p {
     text-align: center;
+    font-family: sans-serif;
 }
 
 .homepage {
     color: red;
+    font-family: sans-serif;
 }
 

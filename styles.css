@@ -8,6 +8,7 @@
         background-color: red;
         color: white;
         font-size: 50px;
+    font-family: sans-serif;
         text-align: center;
 }
 
@@ -15,12 +16,14 @@
         background-color: red; 
         color: white;
         font-size: 30px;
+    font-family: sans-serif;
         text-align: center;
 }
 
 .List {
       color: white;
       font-size: 20px;
+    font-family: sans-serif;
       text-align: center; 
 }
 
@@ -28,6 +31,7 @@
       color: white;
       color: white;
       color: white;
+    font-family: sans-serif;
 }
 
 .img {
